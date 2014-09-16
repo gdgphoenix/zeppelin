@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Southwest 2014"
 email: "sheldon.mcgee@gmail.com"
 description: "GDG DevFest Southwest is . . . "
-baseurl: "./"
+baseurl: "/devfest"
 url: "http://gdgphoenix.com/devfest2014"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-54852140-1"
@@ -46,9 +46,9 @@ navigationLinks:
 
 
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/11OxJBp9mE1t8Btj-f33TT1d5txPlYC8fBoIX5jB1P2E/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/11OxJBp9mE1t8Btj-f33TT1d5txPlYC8fBoIX5jB1P2E/viewform", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -57,8 +57,8 @@ eventDate: "November 14 - 15, 2014"
 typeoutTextValues: '"Southwest", "Chrome", "Android", "Polymer", "Design", "Studio"'
 typeoutFallback: "Southwest"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://docs.google.com/forms/d/11OxJBp9mE1t8Btj-f33TT1d5txPlYC8fBoIX5jB1P2E/viewform", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
